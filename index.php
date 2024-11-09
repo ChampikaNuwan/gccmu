@@ -1,1 +1,0 @@
-<a href="/gcc/"> <h1>GCC Official</h1> </a>
